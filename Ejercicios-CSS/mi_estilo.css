@@ -1,0 +1,21 @@
+body {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        background: linear-gradient(to right, #8baff2, #435e88);
+      }
+      div {
+        border: 2px dashed #121079;
+        margin: 10px;
+        padding: 5px 30px;
+        border-radius: 15px;
+        box-shadow: 10px 12px #263ea0c2;
+      }
+      #principal {
+        width: 50px;
+        float: left;
+        border-radius: 50%;
+      }
+      div.especial h3 {
+        font-family: Georgia, "Times New Roman", Times, serif;
+        text-shadow: 10px 5px #6c6a6a;
+      }
